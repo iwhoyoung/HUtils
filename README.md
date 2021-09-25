@@ -56,6 +56,23 @@ FUNCTIONS
         :param saved_path: the saved path of png file.
         :return: none
 ```
+file_utils：
+===
+Help on module convert_utils:
+
+NAME
+    convert_utils
+
+FUNCTIONS
+    tensor2df(tensor_2d)
+        convert tensor to dataframe.
+        :param tensor_2d: a tensor as input.
+        :return: the corresponding dataframe.
+
+    tensor2str(tensor_2d)
+        convert tensor to string.
+        :param tensor_2d: a tensor as input.
+        :return: the corresponding string.
 
 Usage
 ===
