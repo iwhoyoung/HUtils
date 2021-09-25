@@ -59,7 +59,7 @@ FUNCTIONS
 file_utils：
 ===
 Help on module convert_utils:
-
+```python
 NAME
     convert_utils
 
@@ -73,6 +73,7 @@ FUNCTIONS
         convert tensor to string.
         :param tensor_2d: a tensor as input.
         :return: the corresponding string.
+```
 
 Usage
 ===
